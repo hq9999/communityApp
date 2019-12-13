@@ -1,0 +1,28 @@
+.wei_h3{
+    background: #fff;
+    padding: 0.2rem;
+    overflow: hidden;
+    margin-top: .1rem;
+    position: relative;
+}
+.wei_h3 h3{
+    float: left;
+}
+.wei_h3>div{
+    float: right;
+}
+.tlt{
+    position: absolute;
+    right: .2rem;
+    top: 0.4rem;
+}
+.co_con{
+    position: relative;
+}
+.af_time{
+    position: absolute;
+    font-size: .2rem;
+    color: #cdcdcd;
+    top: 0;
+    right: 0;
+}

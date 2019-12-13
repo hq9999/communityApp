@@ -1,0 +1,96 @@
+/* .slider-list {
+    height: 290px !important;
+} */
+
+img {
+    touch-action: none;
+}
+
+.ic {
+    color: #007af4;
+    font-size: 30px !important;
+    margin: 0 0.2rem;
+}
+
+.iconc {
+    color: orange;
+}
+
+.school {
+    background: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: .4rem 0;
+}
+
+.school div {
+    width: 1.5rem;
+    height:1.5rem;
+}
+
+.school img {
+    width: 1rem;
+}
+
+.top {
+    position: relative;
+    padding: 0.2rem;
+    margin-top: 0.4rem;
+}
+
+.fl {
+    position: absolute;
+    left: 50%;
+    padding: 0 0.2rem;
+    margin-left: -0.65rem;
+    top: 0rem;
+    font-size: 0.28rem;
+    background: #f5f5f9;
+}
+
+.top_context {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.jia_top {
+    width: 40%;
+    height: 2rem;
+    margin-top: 0.2rem;
+    /* border: 1px solid red; */
+    position: relative;
+}
+
+.jia_top span {
+    width: 1.9rem;
+    position: absolute;
+    bottom: 0.2rem;
+    left: 0rem;
+    font-size: 0.2rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.jia_top>img {
+    width: 100%;
+    height: 1.4rem;
+}
+
+.jigou>img {
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 50%;
+}
+
+.jigou {
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 50%;
+    /* border: 1px solid aqua; */
+    position: absolute;
+    bottom: 0.2rem;
+    right: 0.1rem;
+}

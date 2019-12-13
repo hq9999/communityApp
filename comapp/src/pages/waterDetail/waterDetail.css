@@ -1,0 +1,66 @@
+.water_tit{
+    font-weight: bold;
+}
+.price{
+    color: #ff6700;
+    font-size: 0.4rem;
+}
+.mar_l{
+    margin-left: 0.4rem;
+}
+.con{
+    width: 4.6rem;
+}
+.Num{
+    float: right;
+}
+.de_left{
+    float: left;
+}
+.de_right{
+    float: right;
+}
+.font{
+    font-size: 26px !important;
+    color: tomato;
+}
+.center{
+    padding:0 .4rem ;
+    border-left: 1px solid #ccc;
+}
+.info{
+    background: white;
+    padding: .3rem;
+    margin: 0.2rem 0;
+    overflow: hidden;
+}
+.info>p{
+    border-bottom: 1px solid #ccc;
+    padding: .2rem 0;
+    font-weight: bold;
+}
+.info>p>span{
+    float: right;
+}
+.jie{
+    height: 1rem;
+    padding: .2rem;
+    overflow: hidden;
+}
+.commond{
+    padding: .2rem;
+    overflow: hidden;
+}
+.user_tou{
+    float: left;
+    margin-right: .2rem;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+}
+.co_con{
+    width: 4.5rem;
+    float: left;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.2rem;
+}

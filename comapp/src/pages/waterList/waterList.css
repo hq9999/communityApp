@@ -1,0 +1,55 @@
+.water_box{
+    padding: 0.2rem;
+}
+.water_context{
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+    margin: 0.2rem 0;
+    padding: .2rem 0;
+    background: white;
+}
+.water_left{
+    float: left;
+    width: 2rem;
+    margin-right: 0.2rem;
+    /* border: 1px solid aqua; */
+}
+.water_left img{
+    width: 100%;
+    height: 1.85rem;
+}
+.water_right{
+    width: 3rem;
+    float: left;
+    /* border: 1px solid blue; */
+}
+.water_right p{
+    margin: 0.1rem 0;
+    font-size: 0.2rem;
+}
+.water_right h3{
+    font-size: 0.3rem;
+}
+.water_tel{
+    width: 1.5rem;
+    height: 1.85rem;
+    float: left;
+    text-align: center;
+    /* border: 1px solid aqua; */
+}
+.water_tit>div{
+    display: inline-block;
+}
+.iuu{
+    width: 0.7rem;
+    height: 0.7rem;
+    text-align: center;
+    line-height: 0.7rem;
+    background: white;
+    border-radius: 50%; 
+    margin: 0.4rem auto;
+}
+.iuo{
+    color: orange;
+    font-size: 0.3rem;
+}

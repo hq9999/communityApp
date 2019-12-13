@@ -1,0 +1,14 @@
+.register{
+    width: 100vw;
+	height: 100vh;
+}
+.am-button-small{
+    height: 20px !important;
+    line-height: 20px !important;
+}
+.l_me{
+    position: absolute;
+    left: 0.2rem;
+    bottom: 0.4rem;
+    z-index:999;
+}

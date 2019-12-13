@@ -1,0 +1,79 @@
+body{
+	background: #f5f5f9;
+}
+.login {
+	width: 100vw;
+	height: 100vh;
+}
+.am-list-item .am-input-control input{
+	font-size: 0.22rem!important;
+}
+
+.int{
+	margin:0.5rem 0.3rem;
+}
+.int h3{
+	text-align: center;
+	font-size: 0.28rem;
+	font-weight: bold;
+}
+.am-list-item .am-input-label.am-input-label-5 {
+    width: 1rem !important;
+}
+.head{
+	position: relative;
+	width: 100vw;
+	height: 1.5rem;
+	background: #007af4;
+	text-align: center;
+	color: white;
+	font-size: 0.34rem;
+	z-index: 999;
+}
+.hw{
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0.4rem;
+	margin: auto;
+}
+.btn{
+	width: 100%;
+	background: #007af4;
+	padding: 0.3rem 0;
+	font-size: 0.28rem;
+	margin-top: 0.5rem;
+	color: white;
+	border: none;
+	border-radius: 0.05rem;
+}
+.fp{
+	margin-top: 0.2rem;
+	color: #ccc;
+	font-size: 0.2rem;
+	text-align: right;
+}
+.if{
+	margin: 0.8rem 0;
+	position: relative;
+}
+.reg{
+	margin-top: 0.6rem;
+}
+.xian{
+	border: 1px solid #ccc;
+}
+.if span{
+	position: absolute;
+	left: 50%;
+	padding: 0.1rem;
+	margin-left: -0.35rem;
+	top: -0.2rem;
+	font-size: 0.28rem;
+	background: #f5f5f9;
+}
+.ico{
+	margin-top: 0.8rem;
+	display: flex;
+	justify-content: space-around;
+}

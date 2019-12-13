@@ -1,0 +1,131 @@
+.men {
+    bottom: 0.15rem !important;
+}
+
+.my-drawer {
+    position: relative;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.my-drawer .am-drawer-sidebar {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-left: 0.6rem;
+}
+
+.my-drawer .am-drawer-sidebar .am-list {
+    width: 100%!important;
+    color: white;
+    height: 100%;
+}
+.am-drawer-content{
+    padding-top: 67px!important;
+}
+.am-list-body{
+    background-color: #007af4!important;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.am-list-body a{
+    width: 3rem;
+    height: 0.7rem;
+    line-height: 0.7rem;
+    color: white;
+    font-size: 0.3rem;
+    margin: 0.1rem;
+    padding-left: 1.3rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.am-navbar-left{
+    z-index: 9999;
+}
+.am-drawer-sidebar{
+    width: 60%;
+    background-color: #007af4!important;
+    z-index: 1111!important;
+}
+.select{
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 0.5rem;
+}
+.logo{
+    height: 2.5rem;
+    /* border: 1px solid red; */
+    position: relative;
+}
+.tou{
+    margin-top:0.5rem ;
+}
+.home_tou{
+    width: 1.5rem !important;
+    height: 1.5rem !important;
+}
+.r_me{
+    position: absolute;
+    bottom: 0.3rem;
+    right: 0.4rem;
+}
+.uname{
+    position: absolute;
+    right: 1.6rem;
+    bottom: 0.8rem;
+    font-weight: bold;
+    font-size: 0.4rem;
+}
+.am-drawer-draghandle{
+    width: 0!important;
+}
+.spicon{
+    position: absolute;
+    left: 0.6rem;
+    top: 0rem;
+}
+
+
+.web{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: #fff;
+}
+.web div{
+    /* border: 1px solid aqua; */
+    width: 30%;
+    height:2rem ;
+    padding: 0.1rem 0;
+    margin-top: 0.2rem;
+}
+.banw{
+    margin: 0 auto;
+}
+.midban{
+    height: 1rem;
+    padding: 0.2rem;
+}
+.midban span{
+    float: left;
+}
+.icon-icon-{
+    color: #007af4;
+    font-size: 30px!important;
+    margin:0  0.2rem;
+}
+.midl{
+    float: left;
+}
+.midr{
+    float: right;
+    margin-right: 0.2rem;
+}
+.wind{
+    clear: left;
+    font-size: 0.2rem;
+}
+.gong{
+    height: 0.3rem;
+}

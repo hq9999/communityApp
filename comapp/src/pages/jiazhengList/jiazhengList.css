@@ -1,0 +1,43 @@
+.jia_tit{
+    overflow: hidden;
+    height: 0.4rem;
+}
+.jia_tit .jia_pr{
+    position: absolute;
+    right: 0;
+    top: 0.1rem;
+    font-size: 0.2rem
+}
+.jia_right{
+    float: left;
+    width: 4.5rem;
+    position: relative;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.1rem;
+    margin-bottom: 0.1rem;
+}
+.jia_tit .p1{
+    border: 1px solid orangered;
+    color: orangered;
+    font-size: 0.2rem;
+    border-radius: 0.1rem;
+    margin: 0 0.1rem;
+}
+.jia_tit .p2{
+    border: 1px solid green;
+    color: green;
+    padding:0 0.05rem;
+    height: 0.2rem;
+    font-size: 0.2rem;
+    border-radius: 0.1rem;
+}
+.pir{
+    font-size: 0.2rem !important;
+}
+.jia_c span{
+    margin:0 0.1rem;
+    font-size: .2rem;
+}
+.jia_c span:nth-child(1){
+    margin-left: 0;
+}

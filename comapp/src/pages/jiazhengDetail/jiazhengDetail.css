@@ -1,0 +1,26 @@
+.pp_cot{
+    background: #fff;
+    padding: .2rem;
+}
+.pp_cot h3{
+    padding: .2rem 0;
+    border-bottom: 1px solid #ccc;
+}
+.pp_content{
+    padding: .4rem 0;
+}
+.pp_content>div{
+    margin: .2rem 0;
+}
+.pp_content span{
+    margin: 0 .1rem;
+}
+.bold{
+    font-weight: bold;
+}
+.blue{
+    color: skyblue;
+}
+.rove{
+    font-size: .3rem !important;
+}
